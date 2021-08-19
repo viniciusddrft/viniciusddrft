@@ -1,7 +1,19 @@
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white%22"/>](https://www.linkedin.com/in/vin%C3%ADcius-dad%C3%A1rio-74b211190/)
+## Olá Eu sou o Vinícius Dadário <img align="right" alt="Vini-Android"  src="https://visitor-badge.glitch.me/badge?page_id=viniciusddrft">
+<div>
+  <a href="https://github.com/viniciusddrft">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusddrft&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusddrft&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-![linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusddrft&layout=compact&theme=radical)
+<div style="display: inline_block"><br>
+  <img align="center" alt="Vini-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
+  <img align="center" alt="Vini-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
+  <img align="center" alt="Vini-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+  <img align="center" alt="Vini-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Vini-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
+  <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vini-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  
+</div>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=viniciusddrft)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusddrft&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
