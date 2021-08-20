@@ -1,4 +1,4 @@
-## Olá Eu sou o Vinícius Dadário <img align="right" alt="Vini-Android"  src="https://visitor-badge.glitch.me/badge?page_id=viniciusddrft">
+## Seja bem-vindo ao meu perfil!!! <img align="right" alt="Vini-Android"  src="https://visitor-badge.glitch.me/badge?page_id=viniciusddrft">
 <div>
   <a href="https://github.com/viniciusddrft">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusddrft&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
