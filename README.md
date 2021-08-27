@@ -15,5 +15,13 @@
   <a href="https://developer.android.com/docs?hl=pt-br" target="_blank"> <img align="center" alt="Vini-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
   
 </div>
-
+  <a href="#"  ><hr></hr>
+<div>
+ <h3>Conheça meus apps na Google play!</h3>
+  
+  <img align="right" alt="Vini-views"  height="100" src="https://cdn.discordapp.com/attachments/770406136128995338/880867337169952778/ezgif-2-3aff07a98d3d.gif">
+  
+ <h3>👉 <a href="https://play.google.com/store/apps/dev?id=8684387380892027861&hl=pt_BR&gl=US" target="_blank"> <img align="center" alt="Vini-GooglePlay" height="30" src="https://cdn.discordapp.com/attachments/770406136128995338/880870036322000906/732208.png">
+  </h3>
+</div>
 
