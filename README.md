@@ -13,6 +13,8 @@
   <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160" target="_blank"> <img align="center" alt="Vini-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <a href="https://www.python.org/" target="_blank"> <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <a href="https://developer.android.com/docs?hl=pt-br" target="_blank"> <img align="center" alt="Vini-Android" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg">
+  <a href="https://godotengine.org/" target="_blank"> <img align="center" alt="Vini-Godot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg">
+  
   
 </div>
   <a href="#"  ><hr></hr>
