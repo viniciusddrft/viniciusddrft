@@ -1,4 +1,4 @@
-## Seja bem-vindo ao meu perfil!!! <img align="right" alt="Vini-views"  src="https://visitor-badge.glitch.me/badge?page_id=viniciusddrft">
+## Seja bem-vindo ao meu perfil!!! 
 <div>
   <a href="https://github.com/viniciusddrft">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusddrft&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
@@ -25,8 +25,6 @@
   <a href="#"  ><hr></hr>
 <div>
  <h3>Conheça meus apps na Google play!</h3>
-  
-  <img align="right" alt="Vini-views"  height="100" src="https://cdn.discordapp.com/attachments/770406136128995338/880867337169952778/ezgif-2-3aff07a98d3d.gif">
   
  <h3>👉 <a href="https://play.google.com/store/apps/dev?id=8684387380892027861&hl=pt_BR&gl=US" target="_blank"> <img align="center" alt="Vini-GooglePlay" height="30" src="https://cdn.discordapp.com/attachments/770406136128995338/880870036322000906/732208.png"></a>
   </h3>
