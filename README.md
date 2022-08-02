@@ -2,7 +2,10 @@
 <div>
   <a href="https://github.com/viniciusddrft">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusddrft&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusddrft&layout=compact&langs_count=10&theme=dracula"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusddrft&layout=compact&langs_count=10&theme=dracula"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?&username=viniciusddrft&theme=dracula">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?&username=viniciusddrft&theme=dracula">
+  </a>
 </div>
 
 <div style="display: inline_block"><br>
