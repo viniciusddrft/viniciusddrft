@@ -7,7 +7,7 @@ class Viniciusddrft extends Developer {
     'work': '⚡️ Dev at Wattio',
     'age': '🐱 23',
     'address': 'Itatinga-SP',
-    'languages': ['dart', 'python', 'c/c++', 'java', 'ruby'],
+    'languages': ['dart', 'python', 'c/c++', 'java'],
     'operationalSystem': 'arch linux'
   };
 }
