@@ -1,7 +1,8 @@
 ### Whoami
 
 ```dart
-sealed class Viniciusddrft {
+class Viniciusddrft extends Developer {
+  @override
   final Map<String, Object> data = {
     'work': '⚡️ dev at Wattio',
     'age': '🐱 23',
