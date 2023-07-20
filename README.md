@@ -1,4 +1,17 @@
-## Seja bem-vindo ao meu perfil!!! 
+### Whoami
+
+```dart
+sealed class Viniciusddrft {
+  final Map<String, Object> data = {
+    'work': '⚡️ dev at Wattio',
+    'age': '🐱 23',
+    'address': 'itatinga-SP',
+    'languages': ['dart', 'python', 'c/c++', 'java', 'ruby'],
+    'operationalSystem': 'Arch linux'
+  };
+}
+```
+
 <div>
   <a href="https://github.com/viniciusddrft">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusddrft&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
