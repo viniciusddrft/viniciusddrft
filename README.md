@@ -5,8 +5,8 @@ class Viniciusddrft extends Developer {
   @override
   final Map<String, Object> data = {
     'work': '⚡️ Dev at Wattio',
-    'age': '🐱 23',
-    'address': 'Itatinga-SP',
+    'age': '🐱 24',
+    'address': 'Botucatu-SP',
     'languages': ['dart', 'python', 'c/c++', 'java','gdScript'],
     'operationalSystem': 'arch linux'
   };
