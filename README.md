@@ -21,14 +21,15 @@ class Viniciusddrft extends Developer {
 </div>
 
 <div style="display: inline_block"><br>
-  Sistema operacional preferido --> <a href="https://archlinux.org/" target="_blank"> <img align="center" alt="Vini-GooglePlay" height="40" src="https://media.discordapp.net/attachments/770406136128995338/958782789849841674/archlinux-logo-dark-removebg-preview.png"></a>
+  Sistema operacional preferido --> <a href="https://archlinux.org/" target="_blank"> <img align="center" alt="Vini-Arch" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg"></a>
   
   <br>
   
   <p>Tecnologias preferidas</p>
   <a href="https://dart.dev/" target="_blank"> <img align="center" alt="Vini-Dart" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg"></a>
   <a href="https://flutter.dev/" target="_blank"> <img align="center" alt="Vini-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"></a>
- <a href="https://www.kernel.org/" target="_blank"> <img align="center" alt="Vini-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
+  <a href="https://go.dev/" target="_blank"> <img align="center" alt="Vini-Go" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg"></a>
+  <a href="https://www.kernel.org/" target="_blank"> <img align="center" alt="Vini-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"></a>
   <a href="https://www.iso.org/" target="_blank"> <img align="center" alt="Vini-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"></a>
   <a href="https://isocpp.org/" target="_blank"> <img align="center" alt="Vini-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"></a>
   <a href="https://www.python.org/" target="_blank"> <img align="center" alt="Vini-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
@@ -41,7 +42,7 @@ class Viniciusddrft extends Developer {
 <div>
  <h3>Conheça meus apps na Google play!</h3>
   
- <h3>👉 <a href="https://play.google.com/store/apps/dev?id=8684387380892027861&hl=pt_BR&gl=US" target="_blank"> <img align="center" alt="Vini-GooglePlay" height="30" src="https://cdn.discordapp.com/attachments/770406136128995338/880870036322000906/732208.png"></a>
+ <h3>👉 <a href="https://play.google.com/store/apps/dev?id=8684387380892027861&hl=pt_BR&gl=US" target="_blank"> <img align="center" alt="Vini-GooglePlay" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg"></a>
   </h3>
 </div>
 
