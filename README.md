@@ -1,15 +1,19 @@
 ### Whoami
 
 ```dart
-class Viniciusddrft extends Developer {
+class Viniciusddrft extends Developer implements PentesterAndroid {
   @override
   final Map<String, Object> data = {
     'work': '⚡️ Dev at Wattio',
     'age': '🐱 24',
     'address': 'Botucatu-SP',
-    'languages': ['dart','go', 'python', 'c/c++', 'java','gdScript'],
-    'operationalSystem': 'arch linux'
+    'languages': ['dart', 'go', 'python', 'c/c++', 'java', 'gdScript'],
+    'operationalSystem': 'arch linux',
+    'hobby': '🎸 Guitar',
   };
+
+  @override
+  String formacao = 'Solyd Android Pentester (SYAP)';
 }
 ```
 
