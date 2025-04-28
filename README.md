@@ -9,7 +9,7 @@ class Viniciusddrft extends Developer implements PentesterAndroid {
     'address': 'Botucatu-SP',
     'languages': ['dart', 'go', 'python', 'c/c++', 'java', 'gdScript'],
     'operationalSystem': 'arch linux',
-    'hobby': '🎸 Guitar',
+    'hobby': ['🎸 Guitar','🥋 Jiu-jitsu'],
   };
 
   @override
