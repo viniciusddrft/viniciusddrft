@@ -13,7 +13,10 @@ class Viniciusddrft extends Developer implements PentesterAndroid {
   };
 
   @override
-  String formacao = 'Solyd Android Pentester (SYAP)';
+  String academicBackground = 'Technologist in Systems Analysis and Development';
+  String technicalDiploma = 'Technical Course in Information Technology'
+  List<String> certifications = ['Solyd Android Pentester (SYAP)'];
+
 }
 ```
 
