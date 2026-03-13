@@ -4,7 +4,7 @@
 class Viniciusddrft extends Developer implements PentesterAndroid {
   @override
   final Map<String, Object> data = {
-    'work': '⚡️ Dev at Conty',
+    'work': '⚡️ Dev at dimep',
     'age': '🐱 25',
     'address': 'Botucatu-SP',
     'languages': ['dart', 'go', 'python', 'c/c++', 'java', 'gdScript'],
